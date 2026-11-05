@@ -37,4 +37,8 @@ jobs:
           build_dir: dist
 
         env:
+<<<<<<< HEAD
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+=======
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+>>>>>>> 45b9234 (Fix GitHub profile statistics)
