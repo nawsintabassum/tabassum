@@ -133,7 +133,17 @@ A real-time communication application designed to enable instant interaction bet
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Statistics">
+  <img src="https://github-readme-stats.vercel.app/api?username=nawsintabassum&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawsintabassum&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+---
+
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nawsintabassum&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
@@ -146,10 +156,30 @@ A real-time communication application designed to enable instant interaction bet
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nawsintabassum&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+</p>
+
+---
+## 📅 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nawsintabassum&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+---
+
+## 📈 GitHub Activity Overview
+
 ## 📈 GitHub Activity Overview
 
 <p align="center">
-  <img src="./profile/activity-graph.svg" alt="GitHub Activity Overview" width="100%">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nawsintabassum&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
